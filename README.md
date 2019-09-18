@@ -6,3 +6,4 @@ This project requires the aggregation of data found in the Citi Bike Trip Histor
 
 ### Data Source:
 * [Citi Bike Data](https://s3.amazonaws.com/tripdata/index.html) (using all 12 months for 2018)
+* [Data](Data.csv)
